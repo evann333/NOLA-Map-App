@@ -1,7 +1,7 @@
 # Evann's New Orleans Map App
 
 ## Overview
-This app was built primarily with React and APIs, along with:
+This app was built primarily with React and APIs, including:
 
 * Google Maps https://www.google.com/maps
 * FourSquare Developers https://developer.foursquare.com/
